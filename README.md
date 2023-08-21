@@ -44,7 +44,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fardas-it.com%2Fuploads%2Fimages%2Fblogs%2Fgiph.gif&f=1&nofb=1&ipt=0e65f3f3a3b2827f7bea8c52d7456dd20252f2c5da9a346ae7dfbaac3da243ce&ipo=images"  />
 </div>
 
 ###

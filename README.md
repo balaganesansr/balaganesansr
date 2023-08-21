@@ -2,7 +2,7 @@
 
 ###
 <style>
-  img{
+  img {
     pointer-events: none;
     cursor: default;
   }
